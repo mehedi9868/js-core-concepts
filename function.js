@@ -1,7 +1,7 @@
-function typing(){
-    var name = "potato";
-    console.log(name)
-}
-typing();
+let firstName = "mehedi";
+let lastName = "hasan";
+
+console.log(firstName.toLowerCase())
+console.log(firstName.toUpperCase())
 
 
